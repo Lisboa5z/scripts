@@ -1,6 +1,3 @@
--- VoxSeas.lua pronto para uso com executor Roblox
--- Basta usar: loadstring(game:HttpGet('URL_DO_ARQUIVO'))()
-
 local _ENV = (getgenv or getrenv or getfenv)()
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
